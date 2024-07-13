@@ -55,6 +55,7 @@
 #include <algorithm>
 #include <cstdio>
 #include <cstring>
+#include <cstdint>
 #include <stdexcept>
 
 #if SYSAPI_WIN32
