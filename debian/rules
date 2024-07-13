@@ -1,5 +1,5 @@
 #!/usr/bin/make -f
 
 %:
-	dh $@ --buildsystem=cmake+ninja --builddirectory=build -Pbuild/debian --parallel
+	dh $@ --buildsystem=cmake+ninja --builddirectory=build --parallel
 

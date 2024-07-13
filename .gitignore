@@ -32,3 +32,9 @@ CMakeCache.txt
 # Transient in-project-directory dependencies
 /deps/
 /out/build/x64-Debug
+debian/.debhelper/
+debian/barrier.debhelper.log
+debian/barrier.substvars
+debian/barrier/
+debian/files
+
